@@ -29,8 +29,8 @@ The roadmap is designed for Java programmers, but feel free to pick topics that 
 - For OOAD we will study [Head First Object-Oriented Analysis and Design Book](https://www.oreilly.com/library/view/head-first-object-oriented/0596008678)
 - For DSA we will study [Data Structures and Algorithms in Java, 6th Edition Book](https://www.oreilly.com/library/view/data-structures-and/9781118771334)
 - For Problem solving we choose [LeetCode](https://leetcode.com/explore) for practicing java and DSA.
-- For Database we will study some chapters of [Database System Concepts 7th edition Book](https://www.db-book.com) or [ITI Database (SQL Server)](https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t)
-- For design patterns we will study [Head First Design Patterns, 2nd Edition Book](https://www.oreilly.com/library/view/head-first-design/9781492077992) or [Refactoring Guru - Design patterns](https://refactoring.guru/design-patterns)
+- For Database we will study some chapters of [SQL and PostgreSQL: The Complete Developer's Guide]([https://www.db-book.com](https://www.udemy.com/course/sql-and-postgresql)
+- For design patterns we will study [Head First Design Patterns, 2nd Edition Book](https://www.oreilly.com/library/view/head-first-design/9781492077992)
 - For backend we will study [Spring Core](https://www.seleniumexpress.com/courses/spring-core) and [Spring Boot](https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot)
 
 **Topics Covered**:
